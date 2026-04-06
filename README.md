@@ -26,7 +26,7 @@
 生成一封措辞完美、废话连篇、令人心碎的拒信，<br>
 或者扮演HR回答任何问题——然后什么都不说清楚。
 
-[功能](#功能) · [安装](#安装) · [使用示例](#使用示例) · [拒信博物馆](#拒信博物馆) · [**English**](#english)
+[功能](#功能) · [安装](#安装) · [使用示例](#使用示例) · [拒信博物馆](#拒信博物馆) · [自定义Persona](#自定义-hr-persona) · [**English**](README_EN.md)
 
 </div>
 
@@ -177,18 +177,10 @@ HR：我们倡导效率优先，团队整体氛围非常积极向上。当然在
 
 ---
 
-## English
-
-**HR.skill** — Because you've received enough rejections. Now it's your turn.
-
-Generate perfectly worded, warmly phrased, completely uninformative rejection letters in Chinese or English. Or summon an HR persona that answers every question without saying anything.
-
-Install: copy `SKILL.md` to `~/.claude/commands/hr.md`, then use `/hr` in Claude Code.
-
----
-
 <div align="center">
 
 MIT License · Built by someone who has read too many rejection emails
+
+[English Version →](README_EN.md)
 
 </div>
