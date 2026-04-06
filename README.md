@@ -226,6 +226,10 @@ HR：我们倡导效率优先，团队整体氛围非常积极向上。当然在
 **初创公司 culture fit 款**
 > "We really enjoyed getting to know you and were impressed by your background. Ultimately, we're looking for someone who's a stronger culture fit for where we are as a team right now."
 
+**Career Page 款**
+> "欢迎持续关注我们的官网招聘页面，期待未来有机会与您携手同行！"  
+> *（没有未来机会。Career page上的岗位三年没更新。）*
+
 **猎头消失前最后一条消息**
 > "您好，简历已转交，有消息我第一时间联系您！"  
 > *（此后永久已读不回）*

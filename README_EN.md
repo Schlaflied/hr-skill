@@ -200,6 +200,11 @@ Collected from the real world. A tribute.
 **The One That Hurts (CN)**
 > "感谢您参与本次招聘流程。经过综合评估，我们认为您与岗位的匹配度暂未达到预期，此次暂不考虑。期待未来有机会合作。"
 
+**The Career Page Special**
+> "We invite you to visit our careers page for future opportunities. We hope our paths will cross again!"
+
+*(There are no future opportunities. The job postings haven't been updated in three years.)*
+
 **The Recruiter's Last Words**
 > "Great talking to you! I've shared your profile with the team and will follow up as soon as I have an update!"  
 > *(Last seen: online 847 days ago)*
