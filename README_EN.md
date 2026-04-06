@@ -24,7 +24,7 @@ You never heard from them again.<br>
 Summon HR.skill. Generate a perfectly crafted, emotionally devastating rejection letter.<br>
 Or enter HR persona mode — answer every question without saying anything at all.
 
-[Features](#features) · [Install](#install) · [Examples](#examples) · [Rejection Museum](#rejection-museum) · [Custom Persona](#custom-persona) · [中文](README.md)
+[Features](#features) · [Install](#install) · [Examples](#examples) · [Rejection Museum](museum.md) · [Custom Persona](#custom-persona) · [Colleagues](colleagues/) · [中文](README.md)
 
 </div>
 
@@ -148,6 +148,15 @@ HR: We're a hybrid team that really values in-person collaboration, especially f
 ```
 
 ---
+
+## Ready-Made HR Personas
+
+Two examples already in `colleagues/`:
+
+- **[晓雯 / Xiaowen](colleagues/xiaowen.md)** — Big Tech HRBP, fluent in corporate jargon, ends every sentence with "哦"
+- **[Jessica](colleagues/jessica.md)** — Series B startup Head of People, "Excited for what's ahead! 🚀", genuinely believes culture fit is a real thing
+
+Contribute your own HR archetype — PR or issue both welcome.
 
 ## Custom Persona
 
