@@ -217,6 +217,7 @@ Collected from the real world. A tribute.
 ## Acknowledgements
 
 Inspired by [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill).  
+Companion project: [Schlaflied/roast-cold-email](https://github.com/Schlaflied/roast-cold-email) — the candidate side: roast companies into hiring you.  
 Raw material sourced from the collective suffering of job seekers worldwide.
 
 ---
