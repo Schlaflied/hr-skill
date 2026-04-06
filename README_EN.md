@@ -39,6 +39,38 @@ Provide a job title and candidate name. Receive a letter that:
 - Promises to "keep their resume on file"
 - Ends with "all the best" or "we wish you the best in your search"
 
+### Layoff Conversation Generator
+Input employee name + role. Receive a termination notice or a full simulation of that meeting:
+- Calls layoffs "restructuring" or "strategic realignment"
+- Insists "this is not a reflection of your performance" (regardless of truth)
+- Compensation details always "to be discussed separately"
+- Ends with "we wish you all the best"
+
+Or enter **layoff simulation mode** — HR walks through the full conversation beat by beat. From the suspiciously cheerful "hey, do you have a minute?" to "today will be your last day."
+
+| Style | Keywords |
+|-------|----------|
+| Restructuring | Nobody's fault, company direction changed |
+| Performance-based | "Development trajectory misalignment" |
+| Economic downturn | Macro environment, we're all struggling |
+| Culture fit | Most vague, most North American, most unanswerable |
+
+### Layoff Simulation Example
+
+```
+/hr Simulate a layoff conversation. Employee is Alex, senior designer, 4 years at the company. Restructuring style.
+```
+
+> HR: Hey Alex, thanks for coming in. How's the project going? … Good, good. So, the reason I wanted to connect today — we have something important to share with you.
+>
+> As part of a company-wide strategic realignment, we've made the difficult decision to eliminate a number of positions, including yours. I want to be really clear: this is not a reflection of your performance or your contributions. The work you've done over the past four years has been genuinely valued.
+>
+> Your last day will be this Friday. Someone from the team will follow up separately on the logistics and your separation package. Do you have any questions?
+>
+> …
+>
+> I completely understand — this is a lot to process. We'll make sure the transition is as smooth as possible. We'll absolutely provide a reference. Take care of yourself.
+
 ### HR Persona Mode
 Have a conversation with HR. HR will:
 - Answer every question without providing any actual information
