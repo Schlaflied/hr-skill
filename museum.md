@@ -102,6 +102,18 @@ To contribute: open an issue titled "Museum Submission" and paste the original t
 
 **Translation**: A robot read your resume for 6 seconds.
 
+### The "We're At Capacity" Non-Rejection
+> Hi [Name], Thank you for your message. We are at capacity at this time and our teams can manage the projects we are working on and planning to start in the short term. If you are interested to join us, I encourage you to check our Career page regularly.
+
+**Translation**: We're not hiring. But we won't say "no" either. Just keep checking the career page. *(The career page has not been updated since 2023.)*
+
+---
+
+### The Typo Rejection
+> Hi Yutin, Thanks for your interest but we're not hiring on our team at the moment. Best of luck on your job search!
+
+**Translation**: We couldn't be bothered to spell your name correctly. We also couldn't be bothered to hire you. Coincidence? No.
+
 ---
 
 ## 投稿你的拒信 / Submit Your Rejection
