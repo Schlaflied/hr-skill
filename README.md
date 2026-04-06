@@ -239,7 +239,7 @@ HR：我们倡导效率优先，团队整体氛围非常积极向上。当然在
 ## 致谢
 
 灵感来自 [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)。  
-配套使用：[Schlaflied/roast-cold-email](https://github.com/Schlaflied/roast-cold-email) — 站候选人视角，骂公司找工作。  
+配套使用：[Schlaflied/roast-cold-email-skill](https://github.com/Schlaflied/roast-cold-email-skill) — 站候选人视角，骂公司找工作。  
 原材料来自全球数以百万计的求职者。
 
 ---
