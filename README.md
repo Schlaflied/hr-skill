@@ -26,7 +26,7 @@
 生成一封措辞完美、废话连篇、令人心碎的拒信，<br>
 或者扮演HR回答任何问题——然后什么都不说清楚。
 
-[功能](#功能) · [安装](#安装) · [使用示例](#使用示例) · [拒信博物馆](museum.md) · [自定义Persona](#自定义-hr-persona) · [贡献同事](colleagues/) · [**English**](README_EN.md)
+[功能](#功能) · [安装](#安装) · [使用示例](#使用示例) · [拒信博物馆](museum.md) · [自定义Persona](#自定义-hr-persona) · [贡献同事](colleagues/) · [SKILL_EN.md](SKILL_EN.md) · [**English**](README_EN.md)
 
 </div>
 
@@ -143,7 +143,10 @@ style: 大厂正式款
 
 ```bash
 git clone https://github.com/Schlaflied/hr-skill
+# 中文版
 cp hr-skill/SKILL.md ~/.claude/commands/hr.md
+# English version
+cp hr-skill/SKILL_EN.md ~/.claude/commands/hr.md
 ```
 
 然后在 Claude Code 里直接用：

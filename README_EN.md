@@ -24,7 +24,7 @@ You never heard from them again.<br>
 Summon HR.skill. Generate a perfectly crafted, emotionally devastating rejection letter.<br>
 Or enter HR persona mode — answer every question without saying anything at all.
 
-[Features](#features) · [Install](#install) · [Examples](#examples) · [Rejection Museum](museum.md) · [Custom Persona](#custom-persona) · [Colleagues](colleagues/) · [中文](README.md)
+[Features](#features) · [Install](#install) · [Examples](#examples) · [Rejection Museum](museum.md) · [Custom Persona](#custom-persona) · [Colleagues](colleagues/) · [SKILL_EN.md](SKILL_EN.md) · [中文](README.md)
 
 </div>
 
@@ -96,6 +96,9 @@ Have a conversation with HR. HR will:
 
 ```bash
 git clone https://github.com/Schlaflied/hr-skill
+# English version
+cp hr-skill/SKILL_EN.md ~/.claude/commands/hr.md
+# 中文版 / Chinese version
 cp hr-skill/SKILL.md ~/.claude/commands/hr.md
 ```
 
