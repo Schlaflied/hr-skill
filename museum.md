@@ -45,6 +45,14 @@ To contribute: open an issue titled "Museum Submission" and paste the original t
 
 ---
 
+### Career Page 款（中英通用）
+> 欢迎持续关注我们的官网招聘页面，期待未来有机会与您携手同行！
+> We invite you to visit our careers page for future opportunities. We hope our paths will cross again!
+
+**解读**：没有未来机会。Career page上的岗位三年没更新。
+
+---
+
 ### 猎头消失前最后一条消息
 > 您好！简历我已经转交给用人部门了，有消息我第一时间联系您！
 
